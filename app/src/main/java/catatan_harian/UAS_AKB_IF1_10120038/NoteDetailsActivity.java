@@ -16,7 +16,7 @@ import com.google.firebase.Timestamp;
 import com.google.firebase.firestore.DocumentReference;
 
 public class NoteDetailsActivity extends AppCompatActivity {
-    //TUGAS PENGGANTI UAS AKB
+    //TUGAS PENGGANTI UAS AKB haaaay
     //Nim   : 10120038
     //Nama  : Randi Hardiansyah
     //Kelas : IF-1
