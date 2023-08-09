@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UAS_AKB_IF1_10120038</string>
+    <string name="title_activity_nav_menu">NavMenu</string>
+    <string name="title_home">Home</string>
+    <string name="title_catatan">Catatan</string>
+    <string name="title_profil">Profil</string>
+    <string name="default_web_client">530655114081-7hetfb6b0hhhtgsfi3lu5nr193eq3432.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Notifikasi</string>
+    <string name="pesan">Catatan anda berhasil dibuat!</string>
+</resources>

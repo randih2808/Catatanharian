@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="catatan_harian.UAS_AKB_IF1_10120038.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_profil"
+        android:name="catatan_harian.UAS_AKB_IF1_10120038.ui.profil.ProfilFragment"
+        android:label="@string/title_profil"
+        tools:layout="@layout/fragment_profil" />
+    <activity
+        android:id="@+id/navigation_catatan"
+        android:name="catatan_harian.UAS_AKB_IF1_10120038.CatatanActivity"
+        android:label="@string/title_catatan"
+        tools:layout="@layout/activity_catatan" />
+</navigation>
